@@ -1,6 +1,6 @@
 {
-  "name": "your Botname",
-  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ your name ",
+  "name": "ROCHANA-MD",
+  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ROCHANA ",
   "logo": "your image url",
   "keywords": ["bot"],
   "success_url": "/",
@@ -20,7 +20,19 @@
     }, 
     
     "ALIVE_MSG": {
-      "description": "paste your alive message hear.",
+      "description": "╭───〔 ✅ I'M ALIVE NOW 〕───⬣
+│
+│ 🔹 *Bot Name:* 💥 ROCHANA-BOT
+│ 🔹 *Status:* Online & Active ✅ 
+│ 🔹 *Owner:* ROCHANA JANADEEPA
+│ 🔹 *Version:* 1.0.0
+│
+╰───────────────⬣
+
+📡 *Stay Connected with Me!*
+
+─────────────────────────
+🚀 Powered By  *ROCHANA JANADEEPA* 🔥.",
       "required": true,
       "value": "HI DEAR IM ONLINE.!!♻️"
     },
@@ -93,9 +105,9 @@
     }, 
 
     "BOT_NAME": {
-      "description": "write hear your name.",
+      "description": "ROCHANA.",
       "required": true,
-      "value": "✦『Botname-MD』✦"
+      "value": "✦『 ROCHANA-MD 』✦"
     }, 
 
     "HEART_REACT": {
