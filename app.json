@@ -1,6 +1,6 @@
 {
-  "name": "your Botname",
-  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ your name ",
+  "name": "ROCHANA-MD",
+  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ROCHANA ",
   "logo": "your image url",
   "keywords": ["bot"],
   "success_url": "/",
@@ -20,7 +20,7 @@
     }, 
     
     "ALIVE_MSG": {
-      "description": "paste your alive message hear.",
+      "description": "ROCHANA-MD BOT IS ALIVE NOW.",
       "required": true,
       "value": "HI DEAR IM ONLINE.!!♻️"
     },
@@ -93,9 +93,9 @@
     }, 
 
     "BOT_NAME": {
-      "description": "write hear your name.",
+      "description": "ROCHANA.",
       "required": true,
-      "value": "✦『Botname-MD』✦"
+      "value": "✦『 ROCHANA-MD 』✦"
     }, 
 
     "HEART_REACT": {
