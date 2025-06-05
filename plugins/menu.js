@@ -26,7 +26,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
     try {
         let desc = `*👋 Hello ${pushname}*
 
-*╭─「 ${config.BOT_NAME} 」*
+*╭─「 ${config.ROCHANA-MD} 」*
 *│◈ ʀᴜɴᴛɪᴍᴇ : ${runtime(process.uptime())}*
 *│◈ ʀᴀᴍ ᴜꜱᴀɢᴇ : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB*
 *│◈ ᴘʟᴀᴛꜰᴏʀᴍ : ${os.hostname()}*
@@ -44,7 +44,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
 _*🌟 Reply with the Number you want to select*_
 
-> *𝙋𝙊𝙒𝙀𝙍𝙀𝘿 𝘽𝙔 your Botname*`;
+> *𝙋𝙊𝙒𝙀𝙍𝙀𝘿 𝘽𝙔 ROCHANA-MD*`;
 
         const vv = await conn.sendMessage(from, { image: { url: config.MENU_IMG}, caption: desc }, { quoted: mek });
 
@@ -76,7 +76,7 @@ _*🌟 Reply with the Number you want to select*_
 
 📊 **Total Commands in MAIN:** 7  
  
-> 💡 **𝙋𝙊𝙒𝙀𝙍𝙀𝘿 𝘽𝙔 Your Botname**  
+> 💡 **𝙋𝙊𝙒𝙀𝙍𝙀𝘿 𝘽𝙔 ROCHANA-MD**  
 
 `);
 
@@ -95,7 +95,7 @@ _*🌟 Reply with the Number you want to select*_
 
 📊 **Total Commands in SEARCH:** 2
 
-> 💡 **𝙋𝙊𝙒𝙀𝙍𝙀𝘿 𝘽𝙔 your Botname**
+> 💡 **𝙋𝙊𝙒𝙀𝙍𝙀𝘿 𝘽𝙔 ROCHANA-MD**
 `);
                         break;
                     case '3':               
@@ -121,7 +121,7 @@ _*🌟 Reply with the Number you want to select*_
 
 📊 **Total Commands in DOWNLOAD:** 12
  
-> 💡 **𝙋𝙊𝙒𝙀𝙍𝙀𝘿 𝘽𝙔 your Botname**  
+> 💡 **𝙋𝙊𝙒𝙀𝙍𝙀𝘿 𝘽𝙔 ROCHANA-MD**  
 
 `);
                     
@@ -158,7 +158,7 @@ _*🌟 Reply with the Number you want to select*_
 📊 **Total Commands in GROUP:** 20  
 
 
-> 💡 **𝙋𝙊𝙒𝙀𝙍𝙀𝘿 𝘽𝙔 Your Botname**  
+> 💡 **𝙋𝙊𝙒𝙀𝙍𝙀𝘿 𝘽𝙔 ROCHANA-MD**  
 `);
                     break;
                     case '5':               
@@ -182,7 +182,7 @@ _*🌟 Reply with the Number you want to select*_
 📊 **Total Commands in Owner:** 9
 
  
-> 💡 **𝙋𝙊𝙒𝙀𝙍𝙀𝘿 𝘽𝙔 your Botname**  
+> 💡 **𝙋𝙊𝙒𝙀𝙍𝙀𝘿 𝘽𝙔 ROCHANA-MD**  
 
 `);
                     break;
@@ -208,7 +208,7 @@ _*🌟 Reply with the Number you want to select*_
 📊 **Total Commands in Owner:** 10
 
  
-> 💡 **𝙋𝙊𝙒𝙀𝙍𝙀𝘿 𝘽𝙔 your Botname**  
+> 💡 **𝙋𝙊𝙒𝙀𝙍𝙀𝘿 𝘽𝙔 ROCHANA-MD**  
 
 `);
                        
